@@ -11,4 +11,6 @@ There exists a limitation in this dataset such that some data entry may represen
 ## Data Analysis
 Using the Data I have scrapped, I conducted several analysis. These include some distance, time, and geographical analysis.
 
-To begin with, I used the coordinates obtained to find the distance between where I live (Sabanci Dormitory) and all the destinations I have travelled to. Then with the time data, 
+To begin with, I used the coordinates obtained to find the distances between where I live (Sabanci Dormitory) and all the destinations I have travelled to. Then with the date and time raw data, I extracted the datetime datatype for easier analysis. Using all this, I created all the graphs that are visible in the notebook I have uploaded, they include: "Distance Travelled from Sabanci University", "Number of Trips Per Week Day", "Average Distance Travelled from Sabanci University Per Week Day", "Number of Trips Per Month", "Number of Trips Travelled Per Day", "Average Distance Travelled Per Day", and "Istanbul Heat Map based on coordinates".
+
+It is important to note that the Heat Map is not visible on GitHub, so I have donwloaded an HTML version of the map as well as a screenshot and uploaded them.
