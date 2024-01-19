@@ -1,5 +1,8 @@
 # Analyzing My Google Maps History
 
+## The presentation video is in this link (accessible within the Sabanci domain only):
+https://drive.google.com/file/d/15OgkruptbhjTMyFpCBt19ahejsh5hb6N/view?usp=sharing
+
 ## Data Description:
 This set of data is scraped from "https://myactivity.google.com/embedded/product/maps/?hl=en-GB". The reason I have chosen to scrape is because I faced issues with accessibility in the data that I was able to request from Google. The data consists of all the locations I have travelled within Istanbul since I started university (December 2021 to December 2023).
 
