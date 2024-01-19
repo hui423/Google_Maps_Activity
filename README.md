@@ -1,7 +1,7 @@
 # Analyzing My Google Maps History
 ## Do I hangout in the European side of Istanbul more than the Asian side?
 
-## The presentation video is in this link (accessible within the Sabanci domain only):
+#### The presentation video is in the link below (accessible within the Sabanci domain only):
 https://drive.google.com/file/d/15OgkruptbhjTMyFpCBt19ahejsh5hb6N/view?usp=sharing
 
 ## Data Description:
